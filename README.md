@@ -1,6 +1,8 @@
 # RAFAEL HERNANDEZ
 A Lawyer and General Manager of my own company with more than 15 years of professional experience, with a strong background in Law, business and managing teams. At this point I am going into a selective and intensive course in Makers Bootcamp, London, to become and specialise as a Software Developer.
-[SKILLS](#SKILLS) | [EDUCATION](#EDUCATION) | [EXPERIENCE](#EXPERIENCE) | [HOBBIES](##HOBBIES) 
+
+[SKILLS](#SKILLS) [EDUCATION](#EDUCATION) [EXPERIENCE](#EXPERIENCE) [HOBBIES](##HOBBIES) 
+
 # SKILLS
 - Quick learner.
 I have the ability to engage any intellectual or learning activity and in a short amount of time getting the enough insight to offer solutions. Along my past professional activities I have been challenged many times with new learning needs in several fields.
