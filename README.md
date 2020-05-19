@@ -35,7 +35,7 @@ For a complete list of what i am working on [GitHub](https://github.com/rafahg)
 
 Project | Description | Tech Stack | Testing | Links
 --- | --- | --- | --- | ---
-DateSpot | Functional webapp to obtain a list of spots for a date and to be advised for a complete success on that endeavour. | Rails, React, Postgres, CSS | Rspec, Capybara | <a href="https://github.com/rafahg/travel-final-project"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+DateSpot | Functional webapp to obtain a list of spots for a date and to be advised for a complete success on that endeavour. | Rails, React, Postgres, CSS | Rspec | <a href="https://github.com/rafahg/travel-final-project"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
 Acebook | Clone of some Facebook functionalities using rails as a framework for back and front end. | Rails, Postgres, Devise, Bootstrap | Rspec, Capybara | <a href="https://the-undefined-method.herokuapp.com/users/sign_in"><img alt="heroku" src="./images/Heroku_Logo.png" height="42" width="42"> </a><a href="https://github.com/rafahg/acebook-theUndefinedMethod"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
 ***
 
