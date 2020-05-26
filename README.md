@@ -70,7 +70,7 @@ Highly selective 12 weeks intensive coding bootcamp.
 
 ## EXPERIENCE
 
--  <b>MONTAGAS LLC , 2005 - 2019</b>
+-  <b>MONTAGAS LLC , 2006 - 2019</b>
 General Manager of my Own company. The company activity was within the Energy sector, being the main operations related with gas pipe works to provide service to factories industrial process and central heating systems. As a General Manager I supervised all the process of selling our services, designing the engineering needed for every project being sure about all the details, sector law regulations, European rules on the subject etc....
 The job had a main B2B and B2C component being essential the constant communication with clients, providers, logistic operators, etc...
 -  <b> SELF EMPLOYED LAWYER , 2013 - 2020 </b>
