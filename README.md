@@ -34,6 +34,7 @@
 ## TECHNICAL-SKILLS.
 
 <strong>Lenguages: </strong> Ruby, Javascript, Html, CSS.
+
 <strong>Databases, tools,frameworks: </strong> PostgreSQL, Jest, Rspec, Cypress, Ruby on Rails, React, Node.
 
 
