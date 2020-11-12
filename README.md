@@ -21,13 +21,20 @@
 </div>
 
 ***
-<p align = "justify">I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London.
+<p align = "justify">I am a software developer recently graduated from Makers Academy BootCamp in London. I have a strong background in business and Law in Spain. After year of working and developing my own business and legal practice, I felt the desire to work on something that has a stronger impact in user's life.
 </p>
-<p align ="jusfify">A Lawyer and General Manager of my own company with more than 15 years of professional experience, with a strong background in Law, business and managing teams. At this point I am going into a selective and intensive course in Makers Bootcamp, London, to become and specialise as a Software Developer.
+
+<p align ="jusfify">I have alwayas, in my professinal career, been involved in fields that require strong problem-solving skills and leading teams to work effectively and in goal-oriented manner. The latter and my passion for tech and help my customers with the best possible outcome have brougth me to the software engineering field, to fullfill my passion for helping others, improve their lifes and build a better world through tech.
 </p>
 
 
 ***
+
+## TECHNICAL-SKILLS.
+
+<strong>Lenguages: </strong> Ruby, Javascript, Html, CSS.
+<strong>Databases, tools,frameworks: </strong> PostgreSQL, Jest, Rspec, Cypress, Ruby on Rails, React, Node.
+
 
 ## PROJECTS
 For a complete list of what i am working on [GitHub](https://github.com/rafahg)
@@ -37,6 +44,11 @@ Project | Description | Tech Stack | Testing | Links
 --- | --- | --- | --- | ---
 DateSpot | Functional webapp to obtain a list of spots for a date and to be advised for a complete success on that endeavour. | Rails, React, Postgres, CSS | Rspec | <a href="https://github.com/rafahg/travel-final-project"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
 Acebook | Clone of some Facebook functionalities using rails as a framework for back and front end. | Rails, Postgres, Devise, Bootstrap | Rspec, Capybara | <a href="https://the-undefined-method.herokuapp.com/users/sign_in"><img alt="heroku" src="./images/Heroku_Logo.png" height="42" width="42"> </a><a href="https://github.com/rafahg/acebook-theUndefinedMethod"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+Webs-Log |Ruby CLI application to process .log files and offer the user several posibilities of visualization | Ruby | Rspec | <a href="https://github.com/rafahg/travel-final-project"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+Calculator |Simple calculator made in vanilla Js| Js | Jest | <a href="https://github.com/rafahg/travel-final-project"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+E-commerce |Full ecommerce web made in react and mongodb| React, Js | Jest | <a href="https://github.com/rafahg/travel-final-project"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+
+
 ***
 
 ## SKILLS
