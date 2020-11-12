@@ -55,15 +55,22 @@ E-commerce |Full ecommerce web made in react and mongodb| React, Js | Jest | <a 
 
 - <b>Quick learner.</b>
 I have the ability to engage any intellectual or learning activity and in a short amount of time getting the enough insight to offer solutions. Along my past professional activities I have been challenged many times with new learning needs in several fields.
+Relating to tech I have shown this skill during my education in Makers and still in the present day. I have to learn how to program an develop app in just 12 weeks, and I did it with success, working on my own and in teams.
 - <b>Excellent Communicator</b>
 As a Lawyer an a General Manager I have developed the skill of clearly communicate problems and look for the correct answers from clients, providers, or partners. In my professional career due to the characteristic of the responsibilities I have held, I have been in the need of cooperating with others on a regular basis, being this skill a key component of my activities.
+In tech I have used this skill almost everyday along my pair-programming session when It is essential to explain ideas acurrately and ask for correct information. When I have worked in teams withing a more complicated projects, my communication skill has arised as a super important one in our daily meettings to set expectations, discussing problenms and discuss ideas in the implmentation of the product.
 - <b>Team Player</b>
 Linked with being proficient in communication I have developed through my years of labour experiences the skill to cooperate with others and learn how to do a job within a team of professionals. Sometimes being lead, sometimes as a leader, always with a humble perspective, learning from others strong points, opinions and experience, adding my ones when required, always having in mind the task and the service to the client.
 - <b>Problem Solver</b>
 Since the very beginning of my career the main part of the job I have been in, has consist in to resolve problems on a daily basis. Due to that, I have developed the ability to deal with a high level of stress, general organisation skills to be able to prioritize what is important and a high understanding of how resolves a problem dividing them in small tasks which become totally doable.
+In tech this problem solving skill has been tested almost every day. Being my approach about problems trying not to being overwhelmed and once I have the general picture try to solve the problems step by step scalating since little problems I know how to solve to finally tackle the whole scenario.
 ***
 
 ## EDUCATION
+
+### CS50, EDX, COMPUTER SCIENCE PROGRAM, HARVARD UNIVERSITY. (July 2020 - Present)
+
+### SCRIMBA, plattform, Front-end program. ( July 2020 - present)
 
 ### Makers Academy (January 2020 to May 2020)
 
