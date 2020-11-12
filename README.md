@@ -21,10 +21,11 @@
 </div>
 
 ***
-<p align = "justify">I am a software developer recently graduated from Makers Academy BootCamp in London. I have a strong background in business and Law in Spain. After year of working and developing my own business and legal practice, I felt the desire to work on something that has a stronger impact in user's life.
+<p align = "justify">I am a software developer who recently graduated from Makers Academy BootCamp in London. I have a strong background in business and Law in Spain. After a year of working and developing my own business and legal practice, I felt the desire to work on something that has a stronger impact on the user's life.
+
 </p>
 
-<p align ="jusfify">I have alwayas, in my professinal career, been involved in fields that require strong problem-solving skills and leading teams to work effectively and in goal-oriented manner. The latter and my passion for tech and help my customers with the best possible outcome have brougth me to the software engineering field, to fullfill my passion for helping others, improve their lifes and build a better world through tech.
+<p align ="jusfify">I have always, in my professional career, been involved in fields that require strong problem-solving skills and leading teams to work effectively and in a goal-oriented manner. The latter and my passion for tech and help my customers with the best possible outcome have brought me to the software engineering field, to fulfil my passion for helping others, improve their lives and build a better world through tech.
 </p>
 
 
