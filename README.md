@@ -67,11 +67,11 @@ Linked with being proficient in communication I have developed through my years 
 
 ## EDUCATION
 
-### CS50, EDX, COMPUTER SCIENCE PROGRAM, HARVARD UNIVERSITY. (July 2020 - Present)
+### CS50, EDX, Introduction to Computer Science, HARVARD UNIVERSITY. (July 2020 - Present)
 
-### SCRIMBA, plattform, Front-end program. ( July 2020 - present)
+### SCRIMBA, online plattform, Front-end program. ( July 2020 - present)
 
-### Makers Academy (January 2020 to May 2020)
+### Makers Academy(January 2020 to May 2020)
 
 Highly selective 12 weeks intensive coding bootcamp.
 
