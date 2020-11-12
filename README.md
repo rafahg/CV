@@ -68,7 +68,7 @@ Linked with being proficient in communication I have developed through my years 
 
 ## EDUCATION
 
-### CS50, EDX, Introduction to Computer Science, HARVARD UNIVERSITY. (July 2020 - Present)
+### CS50, EDX, Introduction to Computer Science, Harvard University. (July 2020 - Present)
 
 ### SCRIMBA, online plattform, Front-end program. ( July 2020 - present)
 
